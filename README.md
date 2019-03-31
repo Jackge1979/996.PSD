@@ -1,5 +1,7 @@
 # 996.PSD
 
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
+
 此版块为996图片创意设计板块，其创建受：[996.ICU](https://github.com/996icu/996.ICU) 启发。
 
 你可以从这里上传，提交和同步有关996的PSD图片设计源文件。
