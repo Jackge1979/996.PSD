@@ -16,6 +16,6 @@
 
 996.PSD所有文件均由开发者所提交，可供所有人随意使用、转载、商用等，如不支持，请勿提交。
 
-如果你喜欢这个项止，可以将 [![996.psd](https://github.com/Jackge1979/996.PSD/blob/master/link-996.psd-red.svg)](https://github.com/Jackge1979/996.PSD) 加入到你的网站。
+如果你喜欢这个项止，可以将 [![996.psd](https://github.com/Jackge1979/996.PSD/blob/master/link-996.psd-red.svg){:height="30"}](https://github.com/Jackge1979/996.PSD) 加入到你的网站。
 
 开发者的生活很重要！
